@@ -1,0 +1,2820 @@
+[
+  {
+    "GroupName": "Barki",
+    "ExcerciseName": "Arnoldki",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "51.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "63.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "50.00",
+          "repeats": "10",
+          "flag": "9"
+        },
+        {
+          "number": "4",
+          "weight": "44.00",
+          "repeats": "6",
+          "flag": "9"
+        }
+      ]
+    },
+    "2018-10-30": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "66.00",
+          "repeats": "9",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "55.00",
+          "repeats": "9",
+          "flag": "7"
+        }
+      ]
+    },
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Barki",
+    "ExcerciseName": "Podciąganie kettli do brody",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "43.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "30.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "52.00",
+          "repeats": "5",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Barki",
+    "ExcerciseName": "Podciąganie sztangi wzdłuż tułowia",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": {
+      "order": "4",
+      "series": [
+        {
+          "number": "1",
+          "weight": "79.00",
+          "repeats": "8",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "58.00",
+          "repeats": "6",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "9.00",
+          "repeats": "10",
+          "flag": "9"
+        },
+        {
+          "number": "4",
+          "weight": "73.00",
+          "repeats": "5",
+          "flag": "7"
+        }
+      ]
+    },
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Barki",
+    "ExcerciseName": "Prostowanie linek stojąc",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": {
+      "order": "4",
+      "series": [
+        {
+          "number": "1",
+          "weight": "58.00",
+          "repeats": "6",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "75.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "72.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "4",
+          "weight": "79.00",
+          "repeats": "6",
+          "flag": "7"
+        }
+      ]
+    },
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Barki",
+    "ExcerciseName": "Wyciskanie hantli nad głową siedząc",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "62.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "11.00",
+          "repeats": "8",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "50.00",
+          "repeats": "8",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Barki",
+    "ExcerciseName": "Wyciskanie na maszynie siedząc",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "69.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "26.00",
+          "repeats": "5",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-11-01": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "49.00",
+          "repeats": "10",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "32.00",
+          "repeats": "9",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "17.00",
+          "repeats": "8",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-30": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "7.00",
+          "repeats": "8",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "39.00",
+          "repeats": "8",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "78.00",
+          "repeats": "5",
+          "flag": "7"
+        },
+        {
+          "number": "4",
+          "weight": "50.00",
+          "repeats": "5",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Barki",
+    "ExcerciseName": "Wyciskanie żołnierskie",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "60.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "67.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "45.00",
+          "repeats": "7",
+          "flag": "9"
+        }
+      ]
+    },
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "63.00",
+          "repeats": "9",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "9.00",
+          "repeats": "8",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "30.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "4",
+          "weight": "30.00",
+          "repeats": "9",
+          "flag": "7"
+        }
+      ]
+    },
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Barki",
+    "ExcerciseName": "Wznoszenie hantli bokiem siedząc",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "38.00",
+          "repeats": "5",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "19.00",
+          "repeats": "6",
+          "flag": "9"
+        }
+      ]
+    },
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Barki",
+    "ExcerciseName": "Wznoszenie hantli w tył w oparciu o ławkę",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "11.00",
+          "repeats": "9",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "6.00",
+          "repeats": "10",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "13.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "4",
+          "weight": "52.00",
+          "repeats": "9",
+          "flag": "9"
+        }
+      ]
+    },
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "72.00",
+          "repeats": "7",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "24.00",
+          "repeats": "6",
+          "flag": "9"
+        }
+      ]
+    },
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Barki",
+    "ExcerciseName": "Wznoszenie ramion na maszynie bokiem",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": {
+      "order": "4",
+      "series": [
+        {
+          "number": "1",
+          "weight": "73.00",
+          "repeats": "9",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "26.00",
+          "repeats": "6",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Biceps",
+    "ExcerciseName": "Hantle młotkowo",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "78.00",
+          "repeats": "6",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "31.00",
+          "repeats": "6",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "28.00",
+          "repeats": "7",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "7.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "28.00",
+          "repeats": "10",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "57.00",
+          "repeats": "10",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "13.00",
+          "repeats": "5",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "66.00",
+          "repeats": "5",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "GroupName": "Biceps",
+    "ExcerciseName": "Hantle młotkowo siedząc",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "6.00",
+          "repeats": "9",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "20.00",
+          "repeats": "6",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "70.00",
+          "repeats": "8",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Biceps",
+    "ExcerciseName": "Hantle młotkowo z zatrzymaniem",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "62.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "80.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "28.00",
+          "repeats": "6",
+          "flag": "7"
+        }
+      ]
+    },
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "56.00",
+          "repeats": "8",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "24.00",
+          "repeats": "7",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "GroupName": "Biceps",
+    "ExcerciseName": "Hantle siedząc z rotacją",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "53.00",
+          "repeats": "10",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "49.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "63.00",
+          "repeats": "10",
+          "flag": "9"
+        }
+      ]
+    },
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "66.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "12.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "28.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "4",
+          "weight": "47.00",
+          "repeats": "6",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Biceps",
+    "ExcerciseName": "Hantle stojąc z rotacją",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "71.00",
+          "repeats": "9",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "78.00",
+          "repeats": "5",
+          "flag": "7"
+        }
+      ]
+    },
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "17.00",
+          "repeats": "8",
+          "flag": "9"
+        },
+        {
+          "number": "1",
+          "weight": "7.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "40.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "44.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "59.00",
+          "repeats": "7",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "80.00",
+          "repeats": "9",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Biceps",
+    "ExcerciseName": "Hantle z zatrzymaniem",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "53.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "75.00",
+          "repeats": "6",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "35.00",
+          "repeats": "6",
+          "flag": "7"
+        }
+      ]
+    },
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Biceps",
+    "ExcerciseName": "Modlitewnik sztanga łamana",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "51.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "12.00",
+          "repeats": "7",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "17.00",
+          "repeats": "9",
+          "flag": "7"
+        },
+        {
+          "number": "4",
+          "weight": "25.00",
+          "repeats": "7",
+          "flag": "9"
+        }
+      ]
+    },
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Biceps",
+    "ExcerciseName": "Prostowanie wyciąg dolny",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "64.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "61.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "78.00",
+          "repeats": "7",
+          "flag": "7"
+        }
+      ]
+    },
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Biceps",
+    "ExcerciseName": "Uginanie przedramion linką młotkowo",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "43.00",
+          "repeats": "6",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "7.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "67.00",
+          "repeats": "6",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "GroupName": "Klatka",
+    "ExcerciseName": "Rozpiętki",
+    "2018-11-11": "NULL",
+    "2018-11-05": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "11.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "66.00",
+          "repeats": "7",
+          "flag": "7"
+        }
+      ]
+    },
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "10.00",
+          "repeats": "9",
+          "flag": "8"
+        },
+        {
+          "number": "1",
+          "weight": "47.00",
+          "repeats": "6",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "66.00",
+          "repeats": "10",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "79.00",
+          "repeats": "10",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "78.00",
+          "repeats": "8",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Klatka",
+    "ExcerciseName": "Unoszenie krążka",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "77.00",
+          "repeats": "10",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "52.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "46.00",
+          "repeats": "10",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wyciskanie hantlami na podłodze",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "58.00",
+          "repeats": "5",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "5.00",
+          "repeats": "8",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "36.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "4",
+          "weight": "6.00",
+          "repeats": "5",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wyciskanie hantlami płaskie",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "41.00",
+          "repeats": "8",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "41.00",
+          "repeats": "6",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "22.00",
+          "repeats": "7",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "40.00",
+          "repeats": "5",
+          "flag": "7"
+        },
+        {
+          "number": "4",
+          "weight": "14.00",
+          "repeats": "10",
+          "flag": "7"
+        }
+      ]
+    },
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wyciskanie hantlami skośne",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "28.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "57.00",
+          "repeats": "8",
+          "flag": "7"
+        }
+      ]
+    },
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wyciskanie sztangi na podłodze",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "52.00",
+          "repeats": "6",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "5.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "78.00",
+          "repeats": "5",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wyciskanie sztangi skos niski",
+    "2018-11-11": "NULL",
+    "2018-11-05": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "48.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "33.00",
+          "repeats": "5",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wyciskanie sztangi skos średni",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "61.00",
+          "repeats": "10",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "13.00",
+          "repeats": "5",
+          "flag": "9"
+        }
+      ]
+    },
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wyciskanie sztangi skos wysoki",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": {
+      "order": "4",
+      "series": [
+        {
+          "number": "1",
+          "weight": "79.00",
+          "repeats": "9",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "76.00",
+          "repeats": "7",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wznosy hantli w leżeniu",
+    "2018-11-11": "NULL",
+    "2018-11-05": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "52.00",
+          "repeats": "9",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "22.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "32.00",
+          "repeats": "9",
+          "flag": "7"
+        },
+        {
+          "number": "4",
+          "weight": "47.00",
+          "repeats": "8",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "75.00",
+          "repeats": "9",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "80.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "14.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "4",
+          "weight": "29.00",
+          "repeats": "10",
+          "flag": "7"
+        }
+      ]
+    },
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Nogi",
+    "ExcerciseName": "Prostowanie na maszynie",
+    "2018-11-11": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "54.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "50.00",
+          "repeats": "7",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "13.00",
+          "repeats": "5",
+          "flag": "7"
+        },
+        {
+          "number": "1",
+          "weight": "63.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "21.00",
+          "repeats": "6",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "74.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "10.00",
+          "repeats": "10",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "46.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "4",
+          "weight": "69.00",
+          "repeats": "6",
+          "flag": "9"
+        }
+      ]
+    },
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Nogi",
+    "ExcerciseName": "Przysiad na hack maszynie",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "27.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "32.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "26.00",
+          "repeats": "6",
+          "flag": "9"
+        }
+      ]
+    },
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Nogi",
+    "ExcerciseName": "Przysiady z hantlem",
+    "2018-11-11": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "20.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "9.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "36.00",
+          "repeats": "6",
+          "flag": "9"
+        }
+      ]
+    },
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "72.00",
+          "repeats": "9",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "50.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "20.00",
+          "repeats": "6",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": {
+      "order": "4",
+      "series": [
+        {
+          "number": "1",
+          "weight": "73.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "39.00",
+          "repeats": "6",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Nogi",
+    "ExcerciseName": "Przysiady ze sztangą",
+    "2018-11-11": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "31.00",
+          "repeats": "9",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "71.00",
+          "repeats": "6",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "80.00",
+          "repeats": "9",
+          "flag": "7"
+        },
+        {
+          "number": "4",
+          "weight": "49.00",
+          "repeats": "8",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "65.00",
+          "repeats": "6",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "15.00",
+          "repeats": "7",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "51.00",
+          "repeats": "6",
+          "flag": "7"
+        }
+      ]
+    },
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Nogi",
+    "ExcerciseName": "Wykroki z hantlami",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "66.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "26.00",
+          "repeats": "9",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "5.00",
+          "repeats": "9",
+          "flag": "8"
+        },
+        {
+          "number": "4",
+          "weight": "36.00",
+          "repeats": "6",
+          "flag": "7"
+        }
+      ]
+    },
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Nogi",
+    "ExcerciseName": "Wypychanie na suwnicy leżąc",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "43.00",
+          "repeats": "5",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "68.00",
+          "repeats": "7",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "80.00",
+          "repeats": "8",
+          "flag": "7"
+        }
+      ]
+    },
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Plecy",
+    "ExcerciseName": "Podciąganie na gumie",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "28.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "37.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "58.00",
+          "repeats": "6",
+          "flag": "7"
+        }
+      ]
+    },
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Plecy",
+    "ExcerciseName": "Przyciąganie oburącz na maszynie",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "80.00",
+          "repeats": "10",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "30.00",
+          "repeats": "7",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Plecy",
+    "ExcerciseName": "Przyciąganie wąsko dołem na maszynie",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "26.00",
+          "repeats": "10",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "24.00",
+          "repeats": "6",
+          "flag": "9"
+        }
+      ]
+    },
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Plecy",
+    "ExcerciseName": "Przyciąganie wąsko hantla",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "10.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "49.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "59.00",
+          "repeats": "5",
+          "flag": "8"
+        },
+        {
+          "number": "4",
+          "weight": "11.00",
+          "repeats": "9",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Plecy",
+    "ExcerciseName": "Shrugsy siedząc",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "77.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "49.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "79.00",
+          "repeats": "5",
+          "flag": "9"
+        }
+      ]
+    },
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Plecy",
+    "ExcerciseName": "Ściąganie szeroko na maszynie do karku",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "80.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "71.00",
+          "repeats": "10",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "31.00",
+          "repeats": "10",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Plecy",
+    "ExcerciseName": "Wiosłowanie podchwytem sztangą",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "5.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "65.00",
+          "repeats": "8",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "80.00",
+          "repeats": "7",
+          "flag": "9"
+        }
+      ]
+    },
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Plecy",
+    "ExcerciseName": "Wiosłowanie półsztangą szeroko",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "69.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "10.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "70.00",
+          "repeats": "9",
+          "flag": "8"
+        },
+        {
+          "number": "4",
+          "weight": "11.00",
+          "repeats": "8",
+          "flag": "9"
+        }
+      ]
+    },
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Triceps",
+    "ExcerciseName": "Hantle w pochyleniu",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "6.00",
+          "repeats": "10",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "35.00",
+          "repeats": "10",
+          "flag": "7"
+        }
+      ]
+    },
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Triceps",
+    "ExcerciseName": "Maszyna podchwytem",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "52.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "40.00",
+          "repeats": "9",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "21.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "4",
+          "weight": "69.00",
+          "repeats": "8",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "GroupName": "Triceps",
+    "ExcerciseName": "Maszyna sznurki klęcząc",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "75.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "27.00",
+          "repeats": "7",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "67.00",
+          "repeats": "10",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "24.00",
+          "repeats": "10",
+          "flag": "7"
+        }
+      ]
+    },
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Triceps",
+    "ExcerciseName": "Pompki na poręczach",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "46.00",
+          "repeats": "8",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "25.00",
+          "repeats": "7",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "21.00",
+          "repeats": "7",
+          "flag": "7"
+        },
+        {
+          "number": "4",
+          "weight": "48.00",
+          "repeats": "10",
+          "flag": "9"
+        }
+      ]
+    },
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Triceps",
+    "ExcerciseName": "Prostowanie przedramion w pochyleniu linką",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "37.00",
+          "repeats": "7",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "29.00",
+          "repeats": "9",
+          "flag": "7"
+        }
+      ]
+    },
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Triceps",
+    "ExcerciseName": "Wyciskanie francuskie hantlami",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "18.00",
+          "repeats": "7",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "9.00",
+          "repeats": "9",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "80.00",
+          "repeats": "5",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "GroupName": "Triceps",
+    "ExcerciseName": "Wyciskanie francuskie hantlą",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "10.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "79.00",
+          "repeats": "8",
+          "flag": "9"
+        }
+      ]
+    },
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Triceps",
+    "ExcerciseName": "Wyciskanie francuskie hantlą z rotacją",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "71.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "27.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "35.00",
+          "repeats": "7",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "79.00",
+          "repeats": "5",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "69.00",
+          "repeats": "9",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "28.00",
+          "repeats": "7",
+          "flag": "8"
+        }
+      ]
+    },
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": "NULL"
+  },
+  {
+    "GroupName": "Triceps",
+    "ExcerciseName": "Wyciskanie francuskie sztangą prostą",
+    "2018-11-11": "NULL",
+    "2018-11-05": "NULL",
+    "2018-11-04": "NULL",
+    "2018-11-01": "NULL",
+    "2018-10-30": "NULL",
+    "2018-10-29": "NULL",
+    "2018-10-28": "NULL",
+    "2018-10-27": "NULL",
+    "2018-10-25": "NULL",
+    "2018-10-24": "NULL",
+    "2018-10-23": "NULL",
+    "2018-10-22": "NULL",
+    "2018-10-20": "NULL",
+    "2018-10-19": "NULL",
+    "2018-10-18": "NULL",
+    "2018-10-15": "NULL",
+    "2018-10-10": "NULL",
+    "2018-10-08": "NULL",
+    "2018-10-05": "NULL",
+    "2018-10-03": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "13.00",
+          "repeats": "5",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "5.00",
+          "repeats": "6",
+          "flag": "7"
+        }
+      ]
+    }
+  }
+]

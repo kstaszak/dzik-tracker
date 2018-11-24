@@ -1,0 +1,597 @@
+[
+  {
+    "_id": "5bf803b0b71e9f9c886892f6",
+    "index": 0,
+    "trainingDate": "2018-11-24",
+    "excercises": [
+      {
+        "name": "Shrugsy",
+        "group": "Triceps",
+        "series": [
+          {
+            "repeats": 9,
+            "weight": "24kg"
+          },
+          {
+            "repeats": 12,
+            "weight": "34kg"
+          },
+          {
+            "repeats": 8,
+            "weight": "38kg"
+          },
+          {
+            "repeats": 9,
+            "weight": "21kg"
+          },
+          {
+            "repeats": 12,
+            "weight": "23kg"
+          }
+        ]
+      },
+      {
+        "name": "Pompki",
+        "group": "Nogi",
+        "series": [
+          {
+            "repeats": 10,
+            "weight": "21kg"
+          },
+          {
+            "repeats": 11,
+            "weight": "34kg"
+          },
+          {
+            "repeats": 12,
+            "weight": "38kg"
+          },
+          {
+            "repeats": 9,
+            "weight": "35kg"
+          },
+          {
+            "repeats": 12,
+            "weight": "31kg"
+          }
+        ]
+      },
+      {
+        "name": "Hantle stojąc z rotacją",
+        "group": "Ramiona",
+        "series": [
+          {
+            "repeats": 12,
+            "weight": "23kg"
+          },
+          {
+            "repeats": 12,
+            "weight": "33kg"
+          },
+          {
+            "repeats": 11,
+            "weight": "30kg"
+          },
+          {
+            "repeats": 8,
+            "weight": "24kg"
+          },
+          {
+            "repeats": 10,
+            "weight": "40kg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5bf803b0669809fd00d6093d",
+    "index": 1,
+    "trainingDate": "2018-11-25",
+    "excercises": [
+      {
+        "name": "Cross Cable",
+        "group": "Nogi",
+        "series": [
+          {
+            "repeats": 12,
+            "weight": "35kg"
+          },
+          {
+            "repeats": 8,
+            "weight": "32kg"
+          },
+          {
+            "repeats": 12,
+            "weight": "31kg"
+          },
+          {
+            "repeats": 10,
+            "weight": "25kg"
+          },
+          {
+            "repeats": 10,
+            "weight": "36kg"
+          }
+        ]
+      },
+      {
+        "name": "Hantle siedząc z rotacją",
+        "group": "Plecy",
+        "series": [
+          {
+            "repeats": 10,
+            "weight": "32kg"
+          },
+          {
+            "repeats": 12,
+            "weight": "25kg"
+          },
+          {
+            "repeats": 8,
+            "weight": "33kg"
+          },
+          {
+            "repeats": 10,
+            "weight": "38kg"
+          },
+          {
+            "repeats": 8,
+            "weight": "22kg"
+          }
+        ]
+      },
+      {
+        "name": "Modlitewnik maszyna",
+        "group": "Nogi",
+        "series": [
+          {
+            "repeats": 12,
+            "weight": "26kg"
+          },
+          {
+            "repeats": 10,
+            "weight": "20kg"
+          },
+          {
+            "repeats": 11,
+            "weight": "22kg"
+          },
+          {
+            "repeats": 11,
+            "weight": "27kg"
+          },
+          {
+            "repeats": 11,
+            "weight": "20kg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5bf803b049d4d360291452e2",
+    "index": 2,
+    "trainingDate": "2018-11-29",
+    "excercises": [
+      {
+        "name": "Rozpiętki wysoki skos",
+        "group": "Ramiona",
+        "series": [
+          {
+            "repeats": 11,
+            "weight": "30kg"
+          },
+          {
+            "repeats": 12,
+            "weight": "24kg"
+          },
+          {
+            "repeats": 12,
+            "weight": "23kg"
+          },
+          {
+            "repeats": 10,
+            "weight": "26kg"
+          },
+          {
+            "repeats": 9,
+            "weight": "35kg"
+          }
+        ]
+      },
+      {
+        "name": "Hantle siedząc z rotacją",
+        "group": "Nogi",
+        "series": [
+          {
+            "repeats": 8,
+            "weight": "32kg"
+          },
+          {
+            "repeats": 8,
+            "weight": "36kg"
+          },
+          {
+            "repeats": 10,
+            "weight": "34kg"
+          },
+          {
+            "repeats": 10,
+            "weight": "32kg"
+          },
+          {
+            "repeats": 10,
+            "weight": "33kg"
+          }
+        ]
+      },
+      {
+        "name": "Cross Cable",
+        "group": "Triceps",
+        "series": [
+          {
+            "repeats": 9,
+            "weight": "31kg"
+          },
+          {
+            "repeats": 12,
+            "weight": "25kg"
+          },
+          {
+            "repeats": 12,
+            "weight": "28kg"
+          },
+          {
+            "repeats": 11,
+            "weight": "31kg"
+          },
+          {
+            "repeats": 8,
+            "weight": "34kg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5bf803b02a3745eb31d99765",
+    "index": 3,
+    "trainingDate": "2018-11-25",
+    "excercises": [
+      {
+        "name": "Wyciskanie hantlami skośne wysoko",
+        "group": "Biceps",
+        "series": [
+          {
+            "repeats": 8,
+            "weight": "28kg"
+          },
+          {
+            "repeats": 11,
+            "weight": "31kg"
+          },
+          {
+            "repeats": 11,
+            "weight": "23kg"
+          },
+          {
+            "repeats": 9,
+            "weight": "32kg"
+          },
+          {
+            "repeats": 11,
+            "weight": "26kg"
+          }
+        ]
+      },
+      {
+        "name": "Wyciskanie hantlami skośne wysoko",
+        "group": "Plecy",
+        "series": [
+          {
+            "repeats": 10,
+            "weight": "21kg"
+          },
+          {
+            "repeats": 9,
+            "weight": "38kg"
+          },
+          {
+            "repeats": 9,
+            "weight": "26kg"
+          },
+          {
+            "repeats": 12,
+            "weight": "23kg"
+          },
+          {
+            "repeats": 9,
+            "weight": "40kg"
+          }
+        ]
+      },
+      {
+        "name": "Ściąganie wąsko na maszynie nachwytem do klatki",
+        "group": "Ramiona",
+        "series": [
+          {
+            "repeats": 12,
+            "weight": "28kg"
+          },
+          {
+            "repeats": 11,
+            "weight": "28kg"
+          },
+          {
+            "repeats": 11,
+            "weight": "39kg"
+          },
+          {
+            "repeats": 11,
+            "weight": "33kg"
+          },
+          {
+            "repeats": 10,
+            "weight": "40kg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5bf803b035c5b3e397cabc90",
+    "index": 4,
+    "trainingDate": "2018-11-29",
+    "excercises": [
+      {
+        "name": "Pompki",
+        "group": "Triceps",
+        "series": [
+          {
+            "repeats": 8,
+            "weight": "33kg"
+          },
+          {
+            "repeats": 9,
+            "weight": "36kg"
+          },
+          {
+            "repeats": 12,
+            "weight": "24kg"
+          },
+          {
+            "repeats": 10,
+            "weight": "27kg"
+          },
+          {
+            "repeats": 8,
+            "weight": "20kg"
+          }
+        ]
+      },
+      {
+        "name": "Ściąganie szeroko na maszynie do klatki",
+        "group": "Ramiona",
+        "series": [
+          {
+            "repeats": 11,
+            "weight": "20kg"
+          },
+          {
+            "repeats": 10,
+            "weight": "37kg"
+          },
+          {
+            "repeats": 8,
+            "weight": "38kg"
+          },
+          {
+            "repeats": 9,
+            "weight": "20kg"
+          },
+          {
+            "repeats": 9,
+            "weight": "28kg"
+          }
+        ]
+      },
+      {
+        "name": "Ściąganie sznurkami do karku",
+        "group": "Ramiona",
+        "series": [
+          {
+            "repeats": 12,
+            "weight": "30kg"
+          },
+          {
+            "repeats": 8,
+            "weight": "28kg"
+          },
+          {
+            "repeats": 12,
+            "weight": "29kg"
+          },
+          {
+            "repeats": 12,
+            "weight": "27kg"
+          },
+          {
+            "repeats": 9,
+            "weight": "37kg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5bf803b054138ec8323c44c5",
+    "index": 5,
+    "trainingDate": "2018-11-26",
+    "excercises": [
+      {
+        "name": "Unoszenie krążka",
+        "group": "Plecy",
+        "series": [
+          {
+            "repeats": 8,
+            "weight": "24kg"
+          },
+          {
+            "repeats": 9,
+            "weight": "38kg"
+          },
+          {
+            "repeats": 11,
+            "weight": "37kg"
+          },
+          {
+            "repeats": 10,
+            "weight": "23kg"
+          },
+          {
+            "repeats": 12,
+            "weight": "20kg"
+          }
+        ]
+      },
+      {
+        "name": "Ściąganie szeroko na maszynie do karku",
+        "group": "Biceps",
+        "series": [
+          {
+            "repeats": 10,
+            "weight": "26kg"
+          },
+          {
+            "repeats": 11,
+            "weight": "21kg"
+          },
+          {
+            "repeats": 12,
+            "weight": "31kg"
+          },
+          {
+            "repeats": 11,
+            "weight": "32kg"
+          },
+          {
+            "repeats": 11,
+            "weight": "37kg"
+          }
+        ]
+      },
+      {
+        "name": "Hantle młotkowo siedząc",
+        "group": "Klatka",
+        "series": [
+          {
+            "repeats": 12,
+            "weight": "37kg"
+          },
+          {
+            "repeats": 9,
+            "weight": "25kg"
+          },
+          {
+            "repeats": 11,
+            "weight": "35kg"
+          },
+          {
+            "repeats": 9,
+            "weight": "40kg"
+          },
+          {
+            "repeats": 8,
+            "weight": "36kg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5bf803b08502f47f9ff4f6f8",
+    "index": 6,
+    "trainingDate": "2018-11-25",
+    "excercises": [
+      {
+        "name": "Przyciąganie wąsko dołem na maszynie",
+        "group": "Nogi",
+        "series": [
+          {
+            "repeats": 8,
+            "weight": "28kg"
+          },
+          {
+            "repeats": 11,
+            "weight": "20kg"
+          },
+          {
+            "repeats": 10,
+            "weight": "38kg"
+          },
+          {
+            "repeats": 12,
+            "weight": "23kg"
+          },
+          {
+            "repeats": 10,
+            "weight": "22kg"
+          }
+        ]
+      },
+      {
+        "name": "Przyciąganie wąsko hantla",
+        "group": "Biceps",
+        "series": [
+          {
+            "repeats": 8,
+            "weight": "36kg"
+          },
+          {
+            "repeats": 11,
+            "weight": "24kg"
+          },
+          {
+            "repeats": 12,
+            "weight": "39kg"
+          },
+          {
+            "repeats": 8,
+            "weight": "40kg"
+          },
+          {
+            "repeats": 9,
+            "weight": "25kg"
+          }
+        ]
+      },
+      {
+        "name": "Butterfly",
+        "group": "Klatka",
+        "series": [
+          {
+            "repeats": 8,
+            "weight": "33kg"
+          },
+          {
+            "repeats": 11,
+            "weight": "31kg"
+          },
+          {
+            "repeats": 10,
+            "weight": "31kg"
+          },
+          {
+            "repeats": 9,
+            "weight": "26kg"
+          },
+          {
+            "repeats": 8,
+            "weight": "40kg"
+          }
+        ]
+      }
+    ]
+  }
+]

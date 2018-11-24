@@ -1,0 +1,2426 @@
+[
+  {
+    "Id": 2,
+    "GroupName": "Barki",
+    "ExcerciseName": "Arnoldki",
+    "TrainingDate": "2018-11-01",
+    "Details": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "51.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "63.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "50.00",
+          "repeats": "10",
+          "flag": "9"
+        },
+        {
+          "number": "4",
+          "weight": "44.00",
+          "repeats": "6",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 3,
+    "GroupName": "Barki",
+    "ExcerciseName": "Face pull",
+    "TrainingDate": "2018-09-14",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "15.00",
+          "repeats": "7",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "39.00",
+          "repeats": "6",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 5,
+    "GroupName": "Barki",
+    "ExcerciseName": "Karolki",
+    "TrainingDate": "2018-11-22",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "31.00",
+          "repeats": "5",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "6.00",
+          "repeats": "7",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "8.00",
+          "repeats": "8",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 6,
+    "GroupName": "Barki",
+    "ExcerciseName": "Podciąganie kettli do brody",
+    "TrainingDate": "2018-11-04",
+    "Details": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "43.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "30.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "52.00",
+          "repeats": "5",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 7,
+    "GroupName": "Barki",
+    "ExcerciseName": "Podciąganie sztangi wzdłuż tułowia",
+    "TrainingDate": "2018-10-30",
+    "Details": {
+      "order": "4",
+      "series": [
+        {
+          "number": "1",
+          "weight": "79.00",
+          "repeats": "8",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "58.00",
+          "repeats": "6",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "9.00",
+          "repeats": "10",
+          "flag": "9"
+        },
+        {
+          "number": "4",
+          "weight": "73.00",
+          "repeats": "5",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 10,
+    "GroupName": "Barki",
+    "ExcerciseName": "Prostowanie linek stojąc",
+    "TrainingDate": "2018-11-22",
+    "Details": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "44.00",
+          "repeats": "5",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "80.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "40.00",
+          "repeats": "7",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 11,
+    "GroupName": "Barki",
+    "ExcerciseName": "Ściąganie na maszynie tył",
+    "TrainingDate": "2018-09-14",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "7.00",
+          "repeats": "5",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "22.00",
+          "repeats": "9",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "77.00",
+          "repeats": "5",
+          "flag": "8"
+        },
+        {
+          "number": "4",
+          "weight": "42.00",
+          "repeats": "5",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 12,
+    "GroupName": "Barki",
+    "ExcerciseName": "Wyciskanie hantli nad głową siedząc",
+    "TrainingDate": "2018-10-30",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "62.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "11.00",
+          "repeats": "8",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "50.00",
+          "repeats": "8",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 15,
+    "GroupName": "Barki",
+    "ExcerciseName": "Wyciskanie na maszynie siedząc",
+    "TrainingDate": "2018-11-04",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "69.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "26.00",
+          "repeats": "5",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 18,
+    "GroupName": "Barki",
+    "ExcerciseName": "Wyciskanie żołnierskie",
+    "TrainingDate": "2018-11-04",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "60.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "67.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "45.00",
+          "repeats": "7",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 19,
+    "GroupName": "Barki",
+    "ExcerciseName": "Wznoszenie hantli bokiem siedząc",
+    "TrainingDate": "2018-10-28",
+    "Details": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "38.00",
+          "repeats": "5",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "19.00",
+          "repeats": "6",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 21,
+    "GroupName": "Barki",
+    "ExcerciseName": "Wznoszenie hantli w tył w oparciu o ławkę",
+    "TrainingDate": "2018-11-01",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "11.00",
+          "repeats": "9",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "6.00",
+          "repeats": "10",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "13.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "4",
+          "weight": "52.00",
+          "repeats": "9",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 22,
+    "GroupName": "Barki",
+    "ExcerciseName": "Wznoszenie krążka przodem z rotacją",
+    "TrainingDate": "2018-11-22",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "54.00",
+          "repeats": "8",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "45.00",
+          "repeats": "7",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 23,
+    "GroupName": "Barki",
+    "ExcerciseName": "Wznoszenie ramion na maszynie bokiem",
+    "TrainingDate": "2018-10-28",
+    "Details": {
+      "order": "4",
+      "series": [
+        {
+          "number": "1",
+          "weight": "73.00",
+          "repeats": "9",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "26.00",
+          "repeats": "6",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 26,
+    "GroupName": "Biceps",
+    "ExcerciseName": "Hantle młotkowo",
+    "TrainingDate": "2018-11-04",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "78.00",
+          "repeats": "6",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "31.00",
+          "repeats": "6",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "28.00",
+          "repeats": "7",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 27,
+    "GroupName": "Biceps",
+    "ExcerciseName": "Hantle młotkowo siedząc",
+    "TrainingDate": "2018-10-30",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "6.00",
+          "repeats": "9",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "20.00",
+          "repeats": "6",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "70.00",
+          "repeats": "8",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 29,
+    "GroupName": "Biceps",
+    "ExcerciseName": "Hantle młotkowo z zatrzymaniem",
+    "TrainingDate": "2018-10-22",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "62.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "80.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "28.00",
+          "repeats": "6",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 31,
+    "GroupName": "Biceps",
+    "ExcerciseName": "Hantle siedząc z rotacją",
+    "TrainingDate": "2018-11-04",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "53.00",
+          "repeats": "10",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "49.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "63.00",
+          "repeats": "10",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 33,
+    "GroupName": "Biceps",
+    "ExcerciseName": "Hantle stojąc z rotacją",
+    "TrainingDate": "2018-10-30",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "71.00",
+          "repeats": "9",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "78.00",
+          "repeats": "5",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 34,
+    "GroupName": "Biceps",
+    "ExcerciseName": "Hantle z zatrzymaniem",
+    "TrainingDate": "2018-10-20",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "53.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "75.00",
+          "repeats": "6",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "35.00",
+          "repeats": "6",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 35,
+    "GroupName": "Biceps",
+    "ExcerciseName": "Modlitewnik sztanga łamana",
+    "TrainingDate": "2018-10-30",
+    "Details": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "51.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "12.00",
+          "repeats": "7",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "17.00",
+          "repeats": "9",
+          "flag": "7"
+        },
+        {
+          "number": "4",
+          "weight": "25.00",
+          "repeats": "7",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 37,
+    "GroupName": "Biceps",
+    "ExcerciseName": "Prostowanie wyciąg dolny",
+    "TrainingDate": "2018-11-24",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "55.00",
+          "repeats": "5",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "73.00",
+          "repeats": "10",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "27.00",
+          "repeats": "8",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 39,
+    "GroupName": "Biceps",
+    "ExcerciseName": "Uginanie przedramion linką młotkowo",
+    "TrainingDate": "2018-11-24",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "16.00",
+          "repeats": "5",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "44.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "37.00",
+          "repeats": "9",
+          "flag": "8"
+        },
+        {
+          "number": "4",
+          "weight": "11.00",
+          "repeats": "7",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 40,
+    "GroupName": "Klatka",
+    "ExcerciseName": "Butterfly",
+    "TrainingDate": "2018-11-22",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "37.00",
+          "repeats": "6",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "22.00",
+          "repeats": "10",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "48.00",
+          "repeats": "5",
+          "flag": "7"
+        },
+        {
+          "number": "4",
+          "weight": "41.00",
+          "repeats": "9",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 45,
+    "GroupName": "Klatka",
+    "ExcerciseName": "Rozpiętki",
+    "TrainingDate": "2018-11-18",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "46.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "63.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "26.00",
+          "repeats": "10",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 46,
+    "GroupName": "Klatka",
+    "ExcerciseName": "Unoszenie krążka",
+    "TrainingDate": "2018-10-24",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "77.00",
+          "repeats": "10",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "52.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "46.00",
+          "repeats": "10",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 48,
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wyciskanie hantlami na podłodze",
+    "TrainingDate": "2018-10-24",
+    "Details": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "58.00",
+          "repeats": "5",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "5.00",
+          "repeats": "8",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "36.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "4",
+          "weight": "6.00",
+          "repeats": "5",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 51,
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wyciskanie hantlami płaskie",
+    "TrainingDate": "2018-11-22",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "39.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "42.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "35.00",
+          "repeats": "8",
+          "flag": "9"
+        },
+        {
+          "number": "4",
+          "weight": "22.00",
+          "repeats": "10",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 54,
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wyciskanie hantlami skośne",
+    "TrainingDate": "2018-11-18",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "22.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "76.00",
+          "repeats": "10",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 56,
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wyciskanie hantlami skośne wysoko",
+    "TrainingDate": "2018-11-22",
+    "Details": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "49.00",
+          "repeats": "5",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "46.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "21.00",
+          "repeats": "9",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 57,
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wyciskanie na maszynie jednorącz",
+    "TrainingDate": "2018-11-17",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "30.00",
+          "repeats": "10",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "69.00",
+          "repeats": "7",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "32.00",
+          "repeats": "9",
+          "flag": "7"
+        },
+        {
+          "number": "4",
+          "weight": "7.00",
+          "repeats": "5",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 58,
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wyciskanie na maszynie skośne",
+    "TrainingDate": "2018-11-17",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "70.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "12.00",
+          "repeats": "9",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "62.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "4",
+          "weight": "51.00",
+          "repeats": "10",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 59,
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wyciskanie na maszynie wąsko",
+    "TrainingDate": "2018-11-22",
+    "Details": {
+      "order": "4",
+      "series": [
+        {
+          "number": "1",
+          "weight": "11.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "59.00",
+          "repeats": "8",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "78.00",
+          "repeats": "10",
+          "flag": "9"
+        },
+        {
+          "number": "4",
+          "weight": "68.00",
+          "repeats": "5",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 60,
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wyciskanie sztangi na podłodze",
+    "TrainingDate": "2018-10-29",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "52.00",
+          "repeats": "6",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "5.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "78.00",
+          "repeats": "5",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 61,
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wyciskanie sztangi płaskie",
+    "TrainingDate": "2018-09-14",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "78.00",
+          "repeats": "8",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "29.00",
+          "repeats": "10",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 63,
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wyciskanie sztangi skos niski",
+    "TrainingDate": "2018-11-05",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "48.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "33.00",
+          "repeats": "5",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 64,
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wyciskanie sztangi skos średni",
+    "TrainingDate": "2018-10-29",
+    "Details": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "61.00",
+          "repeats": "10",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "13.00",
+          "repeats": "5",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 66,
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wyciskanie sztangi skos wysoki",
+    "TrainingDate": "2018-10-29",
+    "Details": {
+      "order": "4",
+      "series": [
+        {
+          "number": "1",
+          "weight": "79.00",
+          "repeats": "9",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "76.00",
+          "repeats": "7",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 67,
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wyciskanie sztangi skos wysoki suwnica",
+    "TrainingDate": "2018-11-15",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "12.00",
+          "repeats": "5",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "31.00",
+          "repeats": "7",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "34.00",
+          "repeats": "5",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 69,
+    "GroupName": "Klatka",
+    "ExcerciseName": "Wznosy hantli w leżeniu",
+    "TrainingDate": "2018-11-05",
+    "Details": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "52.00",
+          "repeats": "9",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "22.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "32.00",
+          "repeats": "9",
+          "flag": "7"
+        },
+        {
+          "number": "4",
+          "weight": "47.00",
+          "repeats": "8",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 73,
+    "GroupName": "Nogi",
+    "ExcerciseName": "Prostowanie na maszynie",
+    "TrainingDate": "2018-11-11",
+    "Details": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "54.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "50.00",
+          "repeats": "7",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 74,
+    "GroupName": "Nogi",
+    "ExcerciseName": "Przysiad na hack maszynie",
+    "TrainingDate": "2018-10-05",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "27.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "32.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "26.00",
+          "repeats": "6",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 77,
+    "GroupName": "Nogi",
+    "ExcerciseName": "Przysiady z hantlami przód",
+    "TrainingDate": "2018-11-13",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "48.00",
+          "repeats": "8",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "53.00",
+          "repeats": "7",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "12.00",
+          "repeats": "7",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 80,
+    "GroupName": "Nogi",
+    "ExcerciseName": "Przysiady z hantlem",
+    "TrainingDate": "2018-11-11",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "20.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "9.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "36.00",
+          "repeats": "6",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 84,
+    "GroupName": "Nogi",
+    "ExcerciseName": "Przysiady ze sztangą",
+    "TrainingDate": "2018-11-11",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "31.00",
+          "repeats": "9",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "71.00",
+          "repeats": "6",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "80.00",
+          "repeats": "9",
+          "flag": "7"
+        },
+        {
+          "number": "4",
+          "weight": "49.00",
+          "repeats": "8",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 85,
+    "GroupName": "Nogi",
+    "ExcerciseName": "Spięcie łydek na siedząco",
+    "TrainingDate": "2018-09-26",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "73.00",
+          "repeats": "10",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "74.00",
+          "repeats": "7",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 86,
+    "GroupName": "Nogi",
+    "ExcerciseName": "Spięcie łydek na stojąco",
+    "TrainingDate": "2018-09-29",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "38.00",
+          "repeats": "5",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "29.00",
+          "repeats": "6",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "45.00",
+          "repeats": "9",
+          "flag": "8"
+        },
+        {
+          "number": "4",
+          "weight": "58.00",
+          "repeats": "6",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 87,
+    "GroupName": "Nogi",
+    "ExcerciseName": "Uginanie na maszynie",
+    "TrainingDate": "2018-11-13",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "57.00",
+          "repeats": "6",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "15.00",
+          "repeats": "8",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "36.00",
+          "repeats": "8",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 88,
+    "GroupName": "Nogi",
+    "ExcerciseName": "Unoszenie podudzi na maszynie",
+    "TrainingDate": "2018-09-26",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "38.00",
+          "repeats": "9",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "49.00",
+          "repeats": "9",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "73.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "4",
+          "weight": "62.00",
+          "repeats": "9",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 89,
+    "GroupName": "Nogi",
+    "ExcerciseName": "Wykroki chodzone",
+    "TrainingDate": "2018-09-19",
+    "Details": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "47.00",
+          "repeats": "5",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "56.00",
+          "repeats": "10",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "50.00",
+          "repeats": "10",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 91,
+    "GroupName": "Nogi",
+    "ExcerciseName": "Wykroki z hantlami",
+    "TrainingDate": "2018-10-15",
+    "Details": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "66.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "26.00",
+          "repeats": "9",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "5.00",
+          "repeats": "9",
+          "flag": "8"
+        },
+        {
+          "number": "4",
+          "weight": "36.00",
+          "repeats": "6",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 93,
+    "GroupName": "Nogi",
+    "ExcerciseName": "Wypychanie na suwnicy leżąc",
+    "TrainingDate": "2018-11-01",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "43.00",
+          "repeats": "5",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "68.00",
+          "repeats": "7",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "80.00",
+          "repeats": "8",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 94,
+    "GroupName": "Plecy",
+    "ExcerciseName": "Narciarz",
+    "TrainingDate": "2018-09-14",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "23.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "48.00",
+          "repeats": "5",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 95,
+    "GroupName": "Plecy",
+    "ExcerciseName": "Podciąganie na gumie",
+    "TrainingDate": "2018-10-19",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "28.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "37.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "58.00",
+          "repeats": "6",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 96,
+    "GroupName": "Plecy",
+    "ExcerciseName": "Podciąganie przeciwwaga",
+    "TrainingDate": "2018-11-13",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "74.00",
+          "repeats": "8",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "25.00",
+          "repeats": "8",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 97,
+    "GroupName": "Plecy",
+    "ExcerciseName": "Przyciąganie jednorącz na maszynie",
+    "TrainingDate": "2018-09-14",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "36.00",
+          "repeats": "8",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "7.00",
+          "repeats": "7",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 98,
+    "GroupName": "Plecy",
+    "ExcerciseName": "Przyciąganie na maszynie podchwytem z góry",
+    "TrainingDate": "2018-09-20",
+    "Details": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "80.00",
+          "repeats": "8",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "58.00",
+          "repeats": "8",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "29.00",
+          "repeats": "8",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 100,
+    "GroupName": "Plecy",
+    "ExcerciseName": "Przyciąganie oburącz na maszynie",
+    "TrainingDate": "2018-10-25",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "80.00",
+          "repeats": "10",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "30.00",
+          "repeats": "7",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 101,
+    "GroupName": "Plecy",
+    "ExcerciseName": "Przyciąganie wąsko dołem na maszynie",
+    "TrainingDate": "2018-10-08",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "26.00",
+          "repeats": "10",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "24.00",
+          "repeats": "6",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 102,
+    "GroupName": "Plecy",
+    "ExcerciseName": "Przyciąganie wąsko hantla",
+    "TrainingDate": "2018-10-08",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "10.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "49.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "59.00",
+          "repeats": "5",
+          "flag": "8"
+        },
+        {
+          "number": "4",
+          "weight": "11.00",
+          "repeats": "9",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 103,
+    "GroupName": "Plecy",
+    "ExcerciseName": "Shrugsy",
+    "TrainingDate": "2018-09-21",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "42.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "1",
+          "weight": "72.00",
+          "repeats": "9",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "41.00",
+          "repeats": "9",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "71.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "57.00",
+          "repeats": "7",
+          "flag": "8"
+        },
+        {
+          "number": "4",
+          "weight": "17.00",
+          "repeats": "7",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 105,
+    "GroupName": "Plecy",
+    "ExcerciseName": "Shrugsy siedząc",
+    "TrainingDate": "2018-10-08",
+    "Details": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "77.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "49.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "79.00",
+          "repeats": "5",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 106,
+    "GroupName": "Plecy",
+    "ExcerciseName": "Ściąganie szeroko na maszynie do karku",
+    "TrainingDate": "2018-10-19",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "80.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "71.00",
+          "repeats": "10",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "31.00",
+          "repeats": "10",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 107,
+    "GroupName": "Plecy",
+    "ExcerciseName": "Ściąganie szeroko na maszynie do klatki",
+    "TrainingDate": "2018-09-19",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "41.00",
+          "repeats": "6",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "6.00",
+          "repeats": "7",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "24.00",
+          "repeats": "7",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 108,
+    "GroupName": "Plecy",
+    "ExcerciseName": "Ściąganie wąsko na maszynie nachwytem do klatki",
+    "TrainingDate": "2018-09-20",
+    "Details": {
+      "order": "4",
+      "series": [
+        {
+          "number": "1",
+          "weight": "42.00",
+          "repeats": "8",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "60.00",
+          "repeats": "8",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "78.00",
+          "repeats": "9",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 109,
+    "GroupName": "Plecy",
+    "ExcerciseName": "Ściąganie wąsko na maszynie trójkątem",
+    "TrainingDate": "2018-11-13",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "49.00",
+          "repeats": "7",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "44.00",
+          "repeats": "9",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 110,
+    "GroupName": "Plecy",
+    "ExcerciseName": "Ściąganie wąsko na maszynie trójkątem na podwyższeniu",
+    "TrainingDate": "2018-09-21",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "38.00",
+          "repeats": "7",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "12.00",
+          "repeats": "9",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 111,
+    "GroupName": "Plecy",
+    "ExcerciseName": "Wiosłowanie hantlami w oparciu o ławkę",
+    "TrainingDate": "2018-09-20",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "25.00",
+          "repeats": "5",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "58.00",
+          "repeats": "5",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "48.00",
+          "repeats": "5",
+          "flag": "8"
+        },
+        {
+          "number": "4",
+          "weight": "69.00",
+          "repeats": "10",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 112,
+    "GroupName": "Plecy",
+    "ExcerciseName": "Wiosłowanie podchwytem sztangą",
+    "TrainingDate": "2018-10-19",
+    "Details": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "5.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "65.00",
+          "repeats": "8",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "80.00",
+          "repeats": "7",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 113,
+    "GroupName": "Plecy",
+    "ExcerciseName": "Wiosłowanie półsztangą na maszynie",
+    "TrainingDate": "2018-09-20",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "22.00",
+          "repeats": "5",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "60.00",
+          "repeats": "9",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "33.00",
+          "repeats": "10",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 115,
+    "GroupName": "Plecy",
+    "ExcerciseName": "Wiosłowanie półsztangą szeroko",
+    "TrainingDate": "2018-10-25",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "69.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "10.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "70.00",
+          "repeats": "9",
+          "flag": "8"
+        },
+        {
+          "number": "4",
+          "weight": "11.00",
+          "repeats": "8",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 116,
+    "GroupName": "Triceps",
+    "ExcerciseName": "Hantle w pochyleniu",
+    "TrainingDate": "2018-10-20",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "6.00",
+          "repeats": "10",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "35.00",
+          "repeats": "10",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 118,
+    "GroupName": "Triceps",
+    "ExcerciseName": "Maszyna podchwytem",
+    "TrainingDate": "2018-11-22",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "50.00",
+          "repeats": "8",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "37.00",
+          "repeats": "8",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 119,
+    "GroupName": "Triceps",
+    "ExcerciseName": "Maszyna sznurki",
+    "TrainingDate": "2018-09-23",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "45.00",
+          "repeats": "7",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "41.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "67.00",
+          "repeats": "6",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 121,
+    "GroupName": "Triceps",
+    "ExcerciseName": "Maszyna sznurki klęcząc",
+    "TrainingDate": "2018-10-20",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "75.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "27.00",
+          "repeats": "7",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 123,
+    "GroupName": "Triceps",
+    "ExcerciseName": "Pompki na poręczach",
+    "TrainingDate": "2018-11-22",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "37.00",
+          "repeats": "8",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "7.00",
+          "repeats": "6",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "58.00",
+          "repeats": "7",
+          "flag": "9"
+        },
+        {
+          "number": "4",
+          "weight": "67.00",
+          "repeats": "5",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 128,
+    "GroupName": "Triceps",
+    "ExcerciseName": "Prostowanie przedramion hantlą zza głowy",
+    "TrainingDate": "2018-11-24",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "32.00",
+          "repeats": "9",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "78.00",
+          "repeats": "7",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 131,
+    "GroupName": "Triceps",
+    "ExcerciseName": "Prostowanie przedramion uchwytem jednorącz",
+    "TrainingDate": "2018-11-24",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "28.00",
+          "repeats": "9",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "65.00",
+          "repeats": "10",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 137,
+    "GroupName": "Triceps",
+    "ExcerciseName": "Prostowanie przedramion w pochyleniu linką",
+    "TrainingDate": "2018-10-23",
+    "Details": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "37.00",
+          "repeats": "7",
+          "flag": "8"
+        },
+        {
+          "number": "2",
+          "weight": "29.00",
+          "repeats": "9",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 138,
+    "GroupName": "Triceps",
+    "ExcerciseName": "Wyciskanie francuskie hantlami",
+    "TrainingDate": "2018-10-03",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "18.00",
+          "repeats": "7",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "9.00",
+          "repeats": "9",
+          "flag": "8"
+        },
+        {
+          "number": "3",
+          "weight": "80.00",
+          "repeats": "5",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 140,
+    "GroupName": "Triceps",
+    "ExcerciseName": "Wyciskanie francuskie hantlą",
+    "TrainingDate": "2018-10-23",
+    "Details": {
+      "order": "1",
+      "series": [
+        {
+          "number": "1",
+          "weight": "10.00",
+          "repeats": "10",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "79.00",
+          "repeats": "8",
+          "flag": "9"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 143,
+    "GroupName": "Triceps",
+    "ExcerciseName": "Wyciskanie francuskie hantlą z rotacją",
+    "TrainingDate": "2018-11-18",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "69.00",
+          "repeats": "5",
+          "flag": "9"
+        },
+        {
+          "number": "2",
+          "weight": "39.00",
+          "repeats": "6",
+          "flag": "7"
+        },
+        {
+          "number": "3",
+          "weight": "50.00",
+          "repeats": "8",
+          "flag": "9"
+        },
+        {
+          "number": "4",
+          "weight": "45.00",
+          "repeats": "7",
+          "flag": "7"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 144,
+    "GroupName": "Triceps",
+    "ExcerciseName": "Wyciskanie francuskie sztangą łamaną",
+    "TrainingDate": "2018-09-16",
+    "Details": {
+      "order": "2",
+      "series": [
+        {
+          "number": "1",
+          "weight": "70.00",
+          "repeats": "9",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "76.00",
+          "repeats": "8",
+          "flag": "9"
+        },
+        {
+          "number": "3",
+          "weight": "67.00",
+          "repeats": "9",
+          "flag": "9"
+        },
+        {
+          "number": "4",
+          "weight": "20.00",
+          "repeats": "8",
+          "flag": "8"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 147,
+    "GroupName": "Triceps",
+    "ExcerciseName": "Wyciskanie francuskie sztangą prostą",
+    "TrainingDate": "2018-10-03",
+    "Details": {
+      "order": "3",
+      "series": [
+        {
+          "number": "1",
+          "weight": "13.00",
+          "repeats": "5",
+          "flag": "7"
+        },
+        {
+          "number": "2",
+          "weight": "5.00",
+          "repeats": "6",
+          "flag": "7"
+        }
+      ]
+    }
+  }
+]
