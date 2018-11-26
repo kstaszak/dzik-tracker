@@ -39,15 +39,15 @@ class LastResultsComponent extends Component {
     prepareCell = (x, id) => {
         if (x === 'NULL') return '';
         let s = x.series.map((key, i) => {
-            return <span key={i} style={{ padding: '0.2em' }} ><span>{key.weight + 'kg '}</span> <span>{key.repeats}</span></span>;
+        return [<td key={'w' + i}>{key.weight + 'kg '}</td>,<td key={'r' + i}>{key.repeats}</td>];
         });
 
-        return <div key={id}>{s} <span>{x.order}</span></div>
+        return <table key={id}><tbody><tr>{s}<td>{x.order}</td></tr></tbody></table>
     }
 
     render() {
         return (
-            <div className="trainings">
+            <div className="lastResults">
                 <TableComponent
                     data={this.state.data}
                     columns={this.state.columns}
