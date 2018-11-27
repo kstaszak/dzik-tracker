@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DzikTrackerApi", "DzikTrackerApi\DzikTrackerApi.csproj", "{625A0E6E-9FA1-4FEB-8305-43E906FEE09C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contract", "Contract", "{9B04C166-88FD-4843-9D38-F85ABD789F00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositories", "Repositories", "{62000912-96E5-4147-90B3-C71CD919FB56}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DzikTracker.DB.Repository", "Repositories\DzikTracker.DB.Repository\DzikTracker.DB.Repository.csproj", "{22E8760B-140A-40F9-89E2-090B459127DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DzikTracker.Contract", "Contract\DzikTracker.Contract\DzikTracker.Contract.csproj", "{2E8B15A9-8507-4C64-934C-4B06F4AA3A2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DependencyInjection", "DependencyInjection", "{C7644D82-F1DB-4197-A41E-E89F16D8C787}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DzikTracker.DependencyInjection.Modules", "DependencyInjection\DzikTracker.DependencyInjection.Modules\DzikTracker.DependencyInjection.Modules.csproj", "{53ADE445-EA3D-4517-8710-9B75B6C642D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{625A0E6E-9FA1-4FEB-8305-43E906FEE09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625A0E6E-9FA1-4FEB-8305-43E906FEE09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625A0E6E-9FA1-4FEB-8305-43E906FEE09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625A0E6E-9FA1-4FEB-8305-43E906FEE09C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22E8760B-140A-40F9-89E2-090B459127DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E8760B-140A-40F9-89E2-090B459127DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E8760B-140A-40F9-89E2-090B459127DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E8760B-140A-40F9-89E2-090B459127DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E8B15A9-8507-4C64-934C-4B06F4AA3A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E8B15A9-8507-4C64-934C-4B06F4AA3A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E8B15A9-8507-4C64-934C-4B06F4AA3A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E8B15A9-8507-4C64-934C-4B06F4AA3A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53ADE445-EA3D-4517-8710-9B75B6C642D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53ADE445-EA3D-4517-8710-9B75B6C642D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53ADE445-EA3D-4517-8710-9B75B6C642D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53ADE445-EA3D-4517-8710-9B75B6C642D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{22E8760B-140A-40F9-89E2-090B459127DA} = {62000912-96E5-4147-90B3-C71CD919FB56}
+		{2E8B15A9-8507-4C64-934C-4B06F4AA3A2E} = {9B04C166-88FD-4843-9D38-F85ABD789F00}
+		{53ADE445-EA3D-4517-8710-9B75B6C642D6} = {C7644D82-F1DB-4197-A41E-E89F16D8C787}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8790FD39-9A10-43BA-9AA5-4043A347A677}
+	EndGlobalSection
+EndGlobal
