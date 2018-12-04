@@ -17,7 +17,7 @@ class LastResultsComponent extends Component {
     }
 
     getItems = () => {
-        axios.get('last.json')
+        axios.get('https://localhost:44307/api/trainings')
             .then((res) => {
                 this.setState({
                     data: res.data, columns: Object.keys(res.data[0]).map((key, id) => {
@@ -25,7 +25,7 @@ class LastResultsComponent extends Component {
                             Header: key,
                             accessor: key,
                             Cell: row => (
-                                key !== 'Details' ?
+                                key !== 'details' ?
                                     <span>{row.value}</span> :
                                     <span>{this.prepareCell(row.value, id)}</span>
                             )
@@ -38,7 +38,7 @@ class LastResultsComponent extends Component {
 
     prepareCell = (x, id) => {
         if (x === 'NULL') return '';
-        let s = x.series.map((key, i) => {
+        let s = JSON.parse(x).series.map((key, i) => {
         return [<td key={'w' + i}>{key.weight + 'kg '}</td>,<td key={'r' + i}>{key.repeats}</td>];
         });
 

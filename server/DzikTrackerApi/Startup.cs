@@ -47,6 +47,12 @@ namespace DzikTrackerApi
                 app.UseHsts();
             }
 
+            // Add Cors
+            app.UseCors(builder =>
+                builder.WithOrigins("http://localhost:3001")
+                    .AllowAnyHeader()
+            );
+
             app.UseHttpsRedirection();
             app.UseMvc();
         }
